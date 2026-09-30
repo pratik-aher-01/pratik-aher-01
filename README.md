@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0f172a,100:111827&text=PRATIK%20AHER&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20SYSTEMS%20%7C%20ENGINEERING%20%7C%20PRODUCT&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+<img src="./assets/hero.svg" width="100%" alt="Animated Pratik Aher profile hero" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=760&lines=I+build+to+understand.;I+learn+by+shipping.;AI+%E2%86%92+Systems+%E2%86%92+Products;Engineering+the+future%2C+one+system+at+a+time." alt="Animated introduction" />
@@ -34,6 +34,20 @@ I don't want to just use AI.
 
 ---
 
+## `$ motion_engine`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=720&lines=INITIALIZING+AI+SYSTEMS...;LOADING+CONTEXT...;CONNECTING+TOOLS...;BUILDING+SYSTEMS...;SHIPPING+ITERATION+N%2B1..." alt="Animated system status" />
+
+<br/>
+
+`●` MODEL <b>ONLINE</b> &nbsp;&nbsp; `●` CONTEXT <b>READY</b> &nbsp;&nbsp; `●` BUILD <b>ACTIVE</b>
+
+</div>
+
+---
+
 ## `$ current_state`
 
 <div align="center">
@@ -57,45 +71,17 @@ I don't want to just use AI.
 
 ---
 
-## `$ system_map`
+## `$ system_motion`
 
 <div align="center">
 
-```text
-                         ┌─────────────────┐
-                         │    HUMAN IDEA   │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                    ┌──────────────────────────┐
-                    │       AI / MODELS       │
-                    └────────────┬─────────────┘
-                                 │
-                    ┌────────────▼─────────────┐
-                    │     CONTEXT / DATA       │
-                    └────────────┬─────────────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              ▼                  ▼                  ▼
-          RETRIEVAL            TOOLS             MEMORY
-              └──────────────────┼──────────────────┘
-                                 ▼
-                    ┌──────────────────────────┐
-                    │     ORCHESTRATION        │
-                    └────────────┬─────────────┘
-                                 ▼
-                    ┌──────────────────────────┐
-                    │  APIs • INFRA • SYSTEMS  │
-                    └────────────┬─────────────┘
-                                 ▼
-                    ┌──────────────────────────┐
-                    │         PRODUCT          │
-                    └──────────────────────────┘
-```
+<img src="./assets/system.svg" width="100%" alt="Animated AI systems architecture" />
 
 </div>
 
-> **This is the layer of the stack I want to master.**
+> **Models → context → tools → agents → infrastructure → products**
+
+This is the layer of the stack I want to master.
 
 ---
 
@@ -302,6 +288,6 @@ That's the game.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,50:0f172a,100:020617" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="Animated profile footer" />
 
 </div>
