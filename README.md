@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Animated Pratik Aher profile hero" />
-
-<img src="./assets/command-center.svg" width="100%" alt="Animated engineering command center" />
+<img src="./assets/cosmic-header.svg" width="100%" alt="Cinematic cosmic Pratik Aher profile header" />
 
 <br/>
 
