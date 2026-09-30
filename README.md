@@ -1,130 +1,268 @@
 <div align="center">
 
-# PRATIK AHER
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:111827&text=PRATIK%20AHER&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Systems%20Builder%20%E2%80%A2%20Engineer%20%E2%80%A2%20Founder%20in%20Progress&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
 
-### AI/ML Engineer in Progress · AI Systems Builder · Data Science
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=Building+intelligent+systems.;Learning+by+shipping.;Turning+ideas+into+software.;AI+%2B+Engineering+%2B+Product." alt="Typing animation" />
+</a>
 
-Building intelligent systems at the intersection of AI, software engineering, and data.
-
-[![Profile views](https://komarev.com/ghpvc/?username=pratik-aher-01&label=Profile%20views&color=0f172a&style=flat)](https://github.com/pratik-aher-01)
-[![GitHub](https://img.shields.io/badge/GitHub-pratik--aher--01-181717?style=flat&logo=github)](https://github.com/pratik-aher-01)
+<p>
+  <a href="https://github.com/pratik-aher-01">
+    <img src="https://komarev.com/ghpvc/?username=pratik-aher-01&label=profile%20views&color=0f172a&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/pratik-aher-01?tab=followers">
+    <img src="https://img.shields.io/github/followers/pratik-aher-01?label=followers&style=flat-square&color=0f172a" alt="Followers" />
+  </a>
+  <a href="https://github.com/pratik-aher-01?tab=repositories">
+    <img src="https://img.shields.io/github/stars/pratik-aher-01?label=stars&style=flat-square&color=0f172a" alt="Stars" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## Currently building
+## `$ whoami`
 
-I am developing the foundations to build practical, production-minded AI applications—where models, data, retrieval, and reliable software work together.
+> **AI & Data Science Engineer** building toward AI systems engineering.
 
-- Exploring AI agents and LLM-powered applications
-- Building with RAG, knowledge systems, and backend APIs
-- Deepening ML/DL and data-science fundamentals
-- Connecting AI capabilities to databases, services, and usable products
+I learn by turning concepts into working software — from machine learning and deep learning to LLM applications, agents, retrieval systems, APIs, and full-stack products.
 
-## About me
+My long-term direction is simple:
 
-I am an Engineering student specializing in **Artificial Intelligence & Data Science** and an independent learner working toward AI systems engineering. I learn best by turning concepts into working software: from knowledge-management tools and AI assistants to backend and full-stack applications.
+**understand the intelligence → engineer the system → ship the product.**
 
-My goal is to understand both layers of modern AI products: the intelligence behind them and the engineering that makes them dependable.
+---
 
-## AI & engineering focus
+## `$ current_focus`
 
-| Area | What I am focused on |
-| --- | --- |
-| **Intelligence** | Machine learning, deep learning, data science, generative AI, and LLM applications |
-| **Knowledge** | RAG, contextual retrieval, knowledge graphs, and structured knowledge systems |
-| **Systems** | AI agents, tool use, APIs, backend architecture, databases, and deployment concepts |
-| **Product** | AI-assisted applications that solve clear, real-world problems |
+<table>
+<tr>
+<td width="50%">
 
-## Technology stack
+### 🧠 Intelligence
+- Machine Learning
+- Deep Learning
+- NLP & Computer Vision
+- LLM applications
+- RAG & knowledge systems
 
-<p>
-  <strong>Languages</strong><br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" alt="C#" />
-</p>
+</td>
+<td width="50%">
 
-<p>
-  <strong>AI & data</strong><br />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0f172a?style=flat" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-0f172a?style=flat" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Generative%20AI-0f172a?style=flat" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-0f172a?style=flat" alt="LLMs and RAG" />
-  <img src="https://img.shields.io/badge/AI%20Agents-0f172a?style=flat" alt="AI Agents" />
-</p>
+### ⚙️ Systems
+- AI agents & tool use
+- Backend architecture
+- APIs & databases
+- Deployment & MLOps
+- Product engineering
 
-<p>
-  <strong>Engineering</strong><br />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=flat" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" alt="Next.js" />
-</p>
-
-<p>
-  <strong>Tools</strong><br />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" alt="Vercel" />
-</p>
-
-## Featured project directions
-
-> A selection of systems I have built, explored, or am actively shaping. Repository links will be added as projects are published.
-
-### StudySync / Personal Brain
-
-An AI-assisted knowledge-management and learning system for organizing academic information. It explores question solving, syllabus analysis, concept mapping, and contextual study support.
-
-`Knowledge management` `LLM applications` `RAG concepts` · [Repository — coming soon](#)
-
-### AI agent systems
-
-Exploring practical assistants that can reason about tasks, use tools, and execute useful actions within well-defined workflows.
-
-`AI agents` `Tool use` `LLMs` · [Repository — coming soon](#)
-
-### AI knowledge system
-
-Investigating how LLMs, retrieval, structured relationships, and contextual reasoning can work together to make knowledge more accessible.
-
-`Knowledge graphs` `RAG` `Contextual retrieval` · [Repository — coming soon](#)
-
-### Krishi Sahayak
-
-An AI chatbot concept for multilingual agricultural assistance—covering crop guidance, weather, schemes, mandi information, disease detection, and farm decision support.
-
-`Applied AI` `Multilingual UX` `Agriculture` · [Repository — coming soon](#)
-
-## Engineering philosophy
-
-> Learn the fundamentals, then the abstractions. Build instead of only consuming tutorials. Understand systems end to end.
-
-I see AI engineering as software engineering with an intelligence layer: useful systems need sound data, clear interfaces, reliable backend services, and thoughtful product decisions—not only impressive demos. Every project is a chance to understand the deeper concept behind it.
-
-## Current learning path
-
-| Layer | Current direction |
-| --- | --- |
-| **Foundation** | Deepening Python, C++, DSA, SQL, and core computer-science concepts |
-| **Intelligence** | Learning ML, DL, statistics, and data science through applied work |
-| **Modern AI** | Exploring LLMs, RAG, agents, and knowledge systems |
-| **Engineering** | Building with APIs, backend architecture, databases, deployment, and system-design concepts |
-
-## GitHub activity
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik-aher-01&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github" alt="Pratik's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-aher-01&layout=compact&hide_border=true&theme=transparent" alt="Pratik's most-used languages" />
+
+**Currently building:** Personal Engineering OS · AI agents · production-minded AI systems
+
 </div>
 
-## Connect
+---
 
-I am always interested in thoughtful conversations about AI systems, practical engineering, and learning by building.
+## `$ what_i_build`
 
-[![GitHub](https://img.shields.io/badge/GitHub-pratik--aher--01-181717?style=flat&logo=github)](https://github.com/pratik-aher-01)
+I am interested in systems where **AI is more than a chatbot**.
+
+```text
+                    ┌──────────────────────┐
+                    │       AI SYSTEM      │
+                    └──────────┬───────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+          Models            Context            Tools
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ▼
+                         Orchestration
+                               │
+                               ▼
+                    APIs • Data • Infra
+                               │
+                               ▼
+                           Product
+```
+
+I like building across that entire path — not just calling a model API and stopping there.
+
+---
+
+## `$ featured_builds`
+
+### 🛰️ BAVIS — Border AI Video Intelligence System
+
+**AI-powered video analytics for existing CCTV infrastructure.**
+
+`Computer Vision` · `YOLO` · `PyTorch` · `RTSP` · `Real-time AI`
+
+Designed around converting raw surveillance streams into structured events, alerts, and searchable incident intelligence.
+
+> 🚧 In active development
+
+---
+
+### 🧩 Persona — WebMCP AI Agent
+
+**An AI agent experiment focused on structured web interaction and tool-driven workflows.**
+
+`AI Agents` · `WebMCP` · `TypeScript` · `Next.js`
+
+🔗 **[Explore Persona →](https://github.com/pratik-aher-01/Persona)**
+
+---
+
+### 🧮 Calculo — Cognitive Calculation Trainer
+
+A learning/product experiment focused on improving calculation speed through deliberate practice and better interaction design.
+
+`Learning Systems` · `Cognitive UX` · `Frontend`
+
+> 🚧 In development
+
+---
+
+### 🛠️ Personal Engineering OS
+
+A personal AI-powered engineering environment designed to help me **learn, build, debug, research, and ship** more effectively.
+
+`Agents` · `MCP` · `LLMs` · `Automation` · `Developer Tools`
+
+> 🔬 Private build / evolving architecture
+
+---
+
+## `$ stack`
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,typescript,javascript" alt="Languages" />
+</p>
+
+### AI / Data
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" alt="AI and data stack" />
+</p>
+
+`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `LLMs` · `RAG` · `AI Agents`
+
+### Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,postgres,mongodb,docker,git,github,vercel" alt="Engineering stack" />
+</p>
+
+---
+
+## `$ engineering_philosophy`
+
+> **Build first. Understand deeply. Ship continuously.**
+
+I don't want to only learn how to use AI.
+
+I want to understand what happens underneath:
+
+```text
+data
+ ↓
+models
+ ↓
+inference
+ ↓
+retrieval / context
+ ↓
+tools
+ ↓
+orchestration
+ ↓
+APIs
+ ↓
+infrastructure
+ ↓
+product
+```
+
+Every project is an experiment in understanding one more layer.
+
+---
+
+## `$ github_command_center`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik-aher-01&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-aher-01&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=pratik-aher-01&hide_border=true&background=FFFFFF00&ring=334155&fire=334155&currStreakLabel=64748B&sideLabels=64748B&dates=64748B" alt="GitHub streak" />
+
+</div>
+
+---
+
+## `$ build_log`
+
+```text
+[ NOW ]     Personal Engineering OS
+            └─ agent architecture + MCP workflows
+
+[ NOW ]     AI Systems
+            └─ RAG + agents + production patterns
+
+[ BUILD ]   BAVIS
+            └─ real-time computer vision pipeline
+
+[ BUILD ]   Persona
+            └─ WebMCP + tool-driven AI workflows
+
+[ EXPLORE ] ML / DL
+            └─ learning through applied systems
+```
+
+---
+
+## `$ principles`
+
+```text
+01  Fundamentals before abstractions.
+02  Build instead of endlessly consuming.
+03  Understand the system end-to-end.
+04  Ship small → measure → improve.
+05  Use AI to accelerate learning, not replace it.
+06  Think like an engineer. Build like a product owner.
+```
+
+---
+
+## `$ connect`
+
+<div align="center">
+
+<a href="https://github.com/pratik-aher-01">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+**Interested in AI systems, engineering, startups, or building something ambitious?**
+
+</div>
+
+---
+
+<div align="center">
+
+### Still building. Still learning. Still shipping.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,100:0f172a" width="100%" />
+
+</div>
