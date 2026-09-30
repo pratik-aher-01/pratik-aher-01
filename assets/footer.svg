@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180">
+<defs><linearGradient id="f"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+<rect width="1200" height="180" fill="#020617"/>
+<path d="M0 140 Q150 60 300 140 T600 140 T900 140 T1200 140" fill="none" stroke="url(#f)" stroke-width="2">
+<animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0 140 Q150 60 300 140 T600 140 T900 140 T1200 140;M0 140 Q150 180 300 140 T600 140 T900 140 T1200 140;M0 140 Q150 60 300 140 T600 140 T900 140 T1200 140"/>
+</path>
+<text x="600" y="75" text-anchor="middle" fill="#f8fafc" font-family="monospace" font-size="18" letter-spacing="4">STILL BUILDING. STILL LEARNING. STILL SHIPPING.</text>
+<circle cx="600" cy="112" r="5" fill="#38bdf8"><animate attributeName="r" values="4;9;4" dur="1.6s" repeatCount="indefinite"/></circle>
+</svg>
