@@ -122,25 +122,20 @@ mindset:
 
 ---
 
-## `$ stack`
+## `$ tech_stack`
 
 <div align="center">
 
-### Languages
+| Layer | Technologies |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js&theme=dark" height="34" alt="Python, C++, Java, TypeScript, JavaScript" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" height="34" alt="PyTorch, scikit-learn, TensorFlow" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="34" alt="React, Next.js" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" height="34" alt="FastAPI, Node.js" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" height="34" alt="PostgreSQL, MongoDB" /> |
+| **Tools / DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" height="34" alt="Docker, Git, GitHub, Vercel" /> |
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,typescript,javascript" alt="Languages" />
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" alt="AI and data tools" />
-
-### Engineering
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,postgres,mongodb,docker,git,github,vercel" alt="Engineering tools" />
-
-<br/><br/>
-
-`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `LLMs` · `RAG` · `Agents` · `MCP`
+<sub>Exploring: LLMs · RAG · AI Agents · MCP · NLP · Computer Vision</sub>
 
 </div>
 
