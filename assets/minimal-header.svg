@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 360" width="1400" height="360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#070A10"/><stop offset=".55" stop-color="#0B111A"/><stop offset="1" stop-color="#080C13"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+    <stop stop-color="#7DD3FC" stop-opacity=".16"/><stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+  <style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}</style>
+</defs>
+<rect width="1400" height="360" rx="18" fill="url(#bg)"/>
+<ellipse cx="700" cy="175" rx="430" ry="180" fill="url(#glow)" filter="url(#blur)"/>
+
+<!-- quiet star field -->
+<g fill="#CBD5E1">
+<circle cx="120" cy="72" r="1"/><circle cx="218" cy="128" r=".8"/><circle cx="305" cy="55" r="1.1"/>
+<circle cx="425" cy="92" r=".7"/><circle cx="982" cy="62" r="1"/><circle cx="1090" cy="115" r=".8"/>
+<circle cx="1210" cy="74" r="1.1"/><circle cx="1300" cy="155" r=".7"/><circle cx="160" cy="250" r=".8"/>
+<circle cx="1180" cy="270" r=".9"/><circle cx="1280" cy="220" r=".7"/>
+</g>
+
+<!-- subtle orbit -->
+<ellipse cx="700" cy="182" rx="430" ry="92" fill="none" stroke="#334155" stroke-width="1" opacity=".55"/>
+<ellipse cx="700" cy="182" rx="330" ry="64" fill="none" stroke="#1E293B" stroke-width="1"/>
+
+<text x="700" y="88" text-anchor="middle" fill="#64748B" class="mono" font-size="11" letter-spacing="5">AI · ENGINEERING · PRODUCT</text>
+<text x="700" y="166" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="2">PRATIK AHER</text>
+<text x="700" y="201" text-anchor="middle" fill="#94A3B8" class="mono" font-size="12" letter-spacing="3">BUILDING SYSTEMS · LEARNING IN PUBLIC</text>
+
+<!-- moving point -->
+<circle cx="270" cy="182" r="4" fill="#7DD3FC" filter="url(#soft)">
+  <animateMotion dur="9s" repeatCount="indefinite" path="M0,0 C180,-75 300,-75 430,0 C560,75 680,75 860,0"/>
+</circle>
+<circle cx="270" cy="182" r="8" fill="none" stroke="#7DD3FC" stroke-opacity=".18">
+  <animate attributeName="r" values="5;18;5" dur="2.8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".7;0;.7" dur="2.8s" repeatCount="indefinite"/>
+</circle>
+
+<line x1="70" y1="302" x2="1330" y2="302" stroke="#1E293B"/>
+<line x1="70" y1="302" x2="360" y2="302" stroke="#7DD3FC" stroke-opacity=".55">
+  <animate attributeName="x2" values="220;520;220" dur="6s" repeatCount="indefinite"/>
+</line>
+<text x="70" y="328" fill="#475569" class="mono" font-size="9" letter-spacing="3">STILL BUILDING · STILL LEARNING</text>
+<text x="1330" y="328" text-anchor="end" fill="#475569" class="mono" font-size="9" letter-spacing="3">INDIA</text>
+</svg>
