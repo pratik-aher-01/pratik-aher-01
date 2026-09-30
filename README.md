@@ -182,7 +182,15 @@ That loop compounds.
 
 ---
 
-## `$ github_live`
+## `$ live_telemetry`
+
+<div align="center">
+
+<img src="./metrics.svg" width="100%" alt="Live GitHub telemetry" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -211,7 +219,11 @@ That loop compounds.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik-aher-01/pratik-aher-01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik-aher-01/pratik-aher-01/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/pratik-aher-01/pratik-aher-01/output/github-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
 
 </div>
 
@@ -232,6 +244,22 @@ That loop compounds.
 
 06  Compounding > shortcuts.
 ```
+
+---
+
+## `$ roadmap`
+
+<div align="center">
+
+`FOUNDATIONS` → `SYSTEMS` → `INTELLIGENCE` → `PRODUCTS` → `SCALE`
+
+</div>
+
+The profile will evolve as the work gets stronger.
+
+**No filler projects. No inflated claims. No badge collecting.**
+
+When there is something genuinely worth showing, it earns a place here.
 
 ---
 
