@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330">
+<defs>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="330" rx="20" fill="#020617"/>
+<g font-family="monospace" text-anchor="middle">
+ <g fill="#0f172a" stroke="#334155">
+  <rect x="40" y="125" width="120" height="70" rx="12"/><rect x="220" y="125" width="120" height="70" rx="12"/>
+  <rect x="400" y="125" width="120" height="70" rx="12"/><rect x="580" y="125" width="120" height="70" rx="12"/><rect x="760" y="125" width="120" height="70" rx="12"/>
+ </g>
+ <g fill="#f8fafc" font-size="14">
+  <text x="100" y="155">MODEL</text><text x="280" y="155">CONTEXT</text><text x="460" y="155">TOOLS</text><text x="640" y="155">AGENT</text><text x="820" y="155">PRODUCT</text>
+  <g fill="#64748b" font-size="11"><text x="100" y="176">intelligence</text><text x="280" y="176">memory / RAG</text><text x="460" y="176">actions</text><text x="640" y="176">orchestration</text><text x="820" y="176">real world</text></g>
+ </g>
+</g>
+<g stroke="url(#line)" stroke-width="2" fill="none" filter="url(#g)">
+ <path d="M160 160H220 M340 160H400 M520 160H580 M700 160H760" stroke-dasharray="8 8">
+  <animate attributeName="stroke-dashoffset" values="0;32" dur="1s" repeatCount="indefinite"/>
+ </path>
+</g>
+<g fill="#38bdf8">
+ <circle r="5"><animateMotion dur="2.4s" repeatCount="indefinite" path="M160 160H220 M340 160H400 M520 160H580 M700 160H760"/></circle>
+ <circle r="3"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M160 160H220 M340 160H400 M520 160H580 M700 160H760"/></circle>
+</g>
+<text x="500" y="55" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="14" letter-spacing="3">THE LAYER I WANT TO MASTER</text>
+<text x="500" y="285" text-anchor="middle" fill="#475569" font-family="monospace" font-size="12">DATA → INTELLIGENCE → ACTION → SYSTEM → IMPACT</text>
+</svg>
