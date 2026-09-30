@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" width="1400" height="520">
+<defs>
+  <radialGradient id="sky"><stop stop-color="#172554"/><stop offset=".45" stop-color="#080F24"/><stop offset="1" stop-color="#02040B"/></radialGradient>
+  <radialGradient id="galaxy"><stop stop-color="#FFF4D6"/><stop offset=".12" stop-color="#F9B86A"/><stop offset=".32" stop-color="#A78BFA" stop-opacity=".8"/><stop offset=".7" stop-color="#38BDF8" stop-opacity=".28"/><stop offset="1" stop-color="#02040B" stop-opacity="0"/></radialGradient>
+  <radialGradient id="earth"><stop stop-color="#334155"/><stop offset=".72" stop-color="#0B1220"/><stop offset="1" stop-color="#02040B"/></radialGradient>
+  <linearGradient id="gold"><stop stop-color="#FFF7ED"/><stop offset=".5" stop-color="#FBBF75"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+  <filter id="blur40"><feGaussianBlur stdDeviation="40"/></filter>
+  <filter id="blur10"><feGaussianBlur stdDeviation="10"/></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="shadow"><feGaussianBlur stdDeviation="8"/></filter>
+  <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:5px}.s{font-family:Inter,Arial,sans-serif}</style>
+</defs>
+
+<rect width="1400" height="520" fill="url(#sky)"/>
+<!-- stars -->
+<g fill="#fff">
+<circle cx="72" cy="62" r="1.4"/><circle cx="142" cy="124" r="1"/><circle cx="220" cy="48" r="1.5"/>
+<circle cx="315" cy="90" r="1"/><circle cx="410" cy="38" r="1.3"/><circle cx="510" cy="110" r="1"/>
+<circle cx="620" cy="54" r="1.4"/><circle cx="735" cy="78" r="1"/><circle cx="830" cy="35" r="1.3"/>
+<circle cx="945" cy="92" r="1"/><circle cx="1050" cy="44" r="1.5"/><circle cx="1160" cy="112" r="1"/>
+<circle cx="1280" cy="55" r="1.3"/><circle cx="1340" cy="145" r="1"/>
+</g>
+<g fill="#7DD3FC" opacity=".8">
+<circle cx="180" cy="210" r="1.3"/><circle cx="370" cy="170" r="1"/><circle cx="1010" cy="190" r="1.2"/><circle cx="1240" cy="220" r="1"/>
+</g>
+
+<!-- distant nebula -->
+<ellipse cx="720" cy="350" rx="560" ry="175" fill="url(#galaxy)" filter="url(#blur40)" opacity=".9"/>
+<ellipse cx="720" cy="352" rx="430" ry="100" fill="none" stroke="#A78BFA" stroke-width="20" opacity=".13" transform="rotate(-10 720 352)" filter="url(#blur10)"/>
+<ellipse cx="720" cy="352" rx="340" ry="70" fill="none" stroke="#F59E0B" stroke-width="10" opacity=".16" transform="rotate(-10 720 352)" filter="url(#blur10)"/>
+
+<!-- spiral orbit -->
+<path d="M180 360 C360 205 610 205 810 305 C1010 405 1160 365 1300 260" fill="none" stroke="#93C5FD" stroke-width="1.2" opacity=".45"/>
+<path d="M115 420 C340 250 590 260 800 350 C1000 435 1160 420 1320 330" fill="none" stroke="#FBBF75" stroke-width="1" opacity=".28"/>
+
+<!-- planets -->
+<circle cx="105" cy="250" r="112" fill="url(#earth)" stroke="#64748B" stroke-opacity=".35"/>
+<path d="M25 285 Q105 250 195 275" fill="none" stroke="#60A5FA" stroke-opacity=".18" stroke-width="18" filter="url(#blur10)"/>
+<path d="M48 180 Q105 145 165 165" fill="none" stroke="#F8FAFC" stroke-opacity=".1" stroke-width="12"/>
+
+<circle cx="1285" cy="210" r="56" fill="#111827" stroke="#475569"/>
+<ellipse cx="1285" cy="210" rx="100" ry="20" fill="none" stroke="#94A3B8" stroke-opacity=".3" transform="rotate(-18 1285 210)"/>
+
+<!-- shooting star -->
+<path d="M1120 90 L1040 130" stroke="url(#gold)" stroke-width="2" opacity=".8"/>
+<circle cx="1120" cy="90" r="4" fill="#FFF7ED" filter="url(#glow)"/>
+
+<!-- central title -->
+<text x="700" y="80" text-anchor="middle" fill="#94A3B8" class="m" font-size="13">AI SYSTEMS · ENGINEERING · PRODUCT</text>
+<text x="700" y="175" text-anchor="middle" fill="#F8FAFC" class="s" font-size="72" font-weight="800" letter-spacing="2">PRATIK <tspan fill="url(#gold)">AHER</tspan></text>
+<text x="700" y="215" text-anchor="middle" fill="#CBD5E1" class="m" font-size="15">AI SYSTEMS BUILDER</text>
+
+<!-- orbit around name -->
+<ellipse cx="700" cy="168" rx="385" ry="78" fill="none" stroke="#CBD5E1" stroke-opacity=".18" stroke-width="1"/>
+<circle cx="1083" cy="168" r="4" fill="#FBBF75" filter="url(#glow)"/>
+
+<!-- lower horizon -->
+<path d="M0 455 Q220 405 390 450 T720 440 T1060 450 T1400 430 V520 H0Z" fill="#020307"/>
+<path d="M0 466 Q240 425 420 463 T760 452 T1110 460 T1400 442" fill="none" stroke="#334155" stroke-width="1"/>
+
+<!-- explorer silhouette -->
+<g transform="translate(700 395)">
+<circle cy="-48" r="14" fill="#03050A"/>
+<path d="M-18 -30 Q0 -38 18 -30 L27 28 L8 31 L0 -5 L-8 31 L-27 28Z" fill="#03050A"/>
+<path d="M-8 30 L-18 70 M8 30 L20 70" stroke="#03050A" stroke-width="10" stroke-linecap="round"/>
+<path d="M-22 70 H-5 M8 70 H26" stroke="#03050A" stroke-width="7" stroke-linecap="round"/>
+</g>
+
+<!-- subtle bottom copy -->
+<text x="48" y="485" fill="#94A3B8" class="m" font-size="10">STILL BUILDING · STILL LEARNING · STILL EXPLORING</text>
+<text x="1352" y="485" text-anchor="end" fill="#94A3B8" class="m" font-size="10">INDIA · 19°N</text>
+
+<!-- motion -->
+<circle cx="700" cy="168" r="2.5" fill="#FBBF75">
+  <animateMotion dur="8s" repeatCount="indefinite" path="M-385,0 A385,78 0 1,1 385,0 A385,78 0 1,1 -385,0"/>
+</circle>
+<g opacity=".5">
+<circle cx="350" cy="110" r="1.5" fill="#38BDF8"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="105" r="1.5" fill="#FBBF75"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
