@@ -1,22 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:111827&text=PRATIK%20AHER&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Systems%20Builder%20%E2%80%A2%20Engineer%20%E2%80%A2%20Founder%20in%20Progress&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0f172a,100:111827&text=PRATIK%20AHER&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20SYSTEMS%20%7C%20ENGINEERING%20%7C%20PRODUCT&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=Building+intelligent+systems.;Learning+by+shipping.;Turning+ideas+into+software.;AI+%2B+Engineering+%2B+Product." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=760&lines=I+build+to+understand.;I+learn+by+shipping.;AI+%E2%86%92+Systems+%E2%86%92+Products;Engineering+the+future%2C+one+system+at+a+time." alt="Animated introduction" />
 </a>
 
-<p>
-  <a href="https://github.com/pratik-aher-01">
-    <img src="https://komarev.com/ghpvc/?username=pratik-aher-01&label=profile%20views&color=0f172a&style=flat-square" alt="Profile views" />
-  </a>
-  <a href="https://github.com/pratik-aher-01?tab=followers">
-    <img src="https://img.shields.io/github/followers/pratik-aher-01?label=followers&style=flat-square&color=0f172a" alt="Followers" />
-  </a>
-  <a href="https://github.com/pratik-aher-01?tab=repositories">
-    <img src="https://img.shields.io/github/stars/pratik-aher-01?label=stars&style=flat-square&color=0f172a" alt="Stars" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/pratik-aher-01">
+<img src="https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/pratik-aher-01?tab=followers">
+<img src="https://img.shields.io/github/followers/pratik-aher-01?style=flat-square&label=followers&color=334155" alt="Followers" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=pratik-aher-01&label=views&color=334155&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -24,184 +22,174 @@
 
 ## `$ whoami`
 
-> **AI & Data Science Engineer** building toward AI systems engineering.
+**Pratik Aher** — AI & Data Science Engineer, independent learner, and builder.
 
-I learn by turning concepts into working software — from machine learning and deep learning to LLM applications, agents, retrieval systems, APIs, and full-stack products.
+I’m focused on understanding how intelligent software is actually engineered:
 
-My long-term direction is simple:
+`models` → `context` → `tools` → `orchestration` → `infrastructure` → `product`
 
-**understand the intelligence → engineer the system → ship the product.**
+I don't want to just use AI.
+
+**I want to understand, build, ship, and eventually create products around it.**
 
 ---
 
-## `$ current_focus`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Intelligence
-- Machine Learning
-- Deep Learning
-- NLP & Computer Vision
-- LLM applications
-- RAG & knowledge systems
-
-</td>
-<td width="50%">
-
-### ⚙️ Systems
-- AI agents & tool use
-- Backend architecture
-- APIs & databases
-- Deployment & MLOps
-- Product engineering
-
-</td>
-</tr>
-</table>
+## `$ current_state`
 
 <div align="center">
 
-**Currently building:** Personal Engineering OS · AI agents · production-minded AI systems
+| | Focus |
+|:---:|---|
+| 🧠 | **AI / ML** — ML, DL, NLP, CV, LLMs |
+| ⚙️ | **AI Systems** — Agents, RAG, tool use, orchestration |
+| 🏗️ | **Engineering** — APIs, backend, databases, architecture |
+| 🚀 | **Product** — Turning technical ideas into useful software |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`LEARNING`  →  `EXPERIMENTING`  →  `BUILDING`  →  `SHIPPING`  →  `ITERATING`
 
 </div>
 
 ---
 
-## `$ what_i_build`
+## `$ system_map`
 
-I am interested in systems where **AI is more than a chatbot**.
+<div align="center">
 
 ```text
-                    ┌──────────────────────┐
-                    │       AI SYSTEM      │
-                    └──────────┬───────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-          Models            Context            Tools
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ▼
-                         Orchestration
-                               │
-                               ▼
-                    APIs • Data • Infra
-                               │
-                               ▼
-                           Product
+                         ┌─────────────────┐
+                         │    HUMAN IDEA   │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                    ┌──────────────────────────┐
+                    │       AI / MODELS       │
+                    └────────────┬─────────────┘
+                                 │
+                    ┌────────────▼─────────────┐
+                    │     CONTEXT / DATA       │
+                    └────────────┬─────────────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              ▼                  ▼                  ▼
+          RETRIEVAL            TOOLS             MEMORY
+              └──────────────────┼──────────────────┘
+                                 ▼
+                    ┌──────────────────────────┐
+                    │     ORCHESTRATION        │
+                    └────────────┬─────────────┘
+                                 ▼
+                    ┌──────────────────────────┐
+                    │  APIs • INFRA • SYSTEMS  │
+                    └────────────┬─────────────┘
+                                 ▼
+                    ┌──────────────────────────┐
+                    │         PRODUCT          │
+                    └──────────────────────────┘
 ```
 
-I like building across that entire path — not just calling a model API and stopping there.
+</div>
+
+> **This is the layer of the stack I want to master.**
 
 ---
 
-## `$ featured_builds`
+## `$ now`
 
-### 🛰️ BAVIS — Border AI Video Intelligence System
+<div align="center">
 
-**AI-powered video analytics for existing CCTV infrastructure.**
+<img src="https://img.shields.io/badge/01-LEARNING-0f172a?style=for-the-badge" alt="Learning" />
+<img src="https://img.shields.io/badge/02-EXPERIMENTING-0f172a?style=for-the-badge" alt="Experimenting" />
+<img src="https://img.shields.io/badge/03-BUILDING-0f172a?style=for-the-badge" alt="Building" />
+<img src="https://img.shields.io/badge/04-SHIPPING-0f172a?style=for-the-badge" alt="Shipping" />
 
-`Computer Vision` · `YOLO` · `PyTorch` · `RTSP` · `Real-time AI`
+</div>
 
-Designed around converting raw surveillance streams into structured events, alerts, and searchable incident intelligence.
+### Current obsessions
 
-> 🚧 In active development
+```yaml
+ai:
+  - agents
+  - llm systems
+  - rag
+  - mcp
+  - multimodal systems
 
----
+engineering:
+  - backend architecture
+  - system design
+  - apis
+  - databases
+  - deployment
 
-### 🧩 Persona — WebMCP AI Agent
-
-**An AI agent experiment focused on structured web interaction and tool-driven workflows.**
-
-`AI Agents` · `WebMCP` · `TypeScript` · `Next.js`
-
-🔗 **[Explore Persona →](https://github.com/pratik-aher-01/Persona)**
-
----
-
-### 🧮 Calculo — Cognitive Calculation Trainer
-
-A learning/product experiment focused on improving calculation speed through deliberate practice and better interaction design.
-
-`Learning Systems` · `Cognitive UX` · `Frontend`
-
-> 🚧 In development
-
----
-
-### 🛠️ Personal Engineering OS
-
-A personal AI-powered engineering environment designed to help me **learn, build, debug, research, and ship** more effectively.
-
-`Agents` · `MCP` · `LLMs` · `Automation` · `Developer Tools`
-
-> 🔬 Private build / evolving architecture
+mindset:
+  - fundamentals
+  - deliberate practice
+  - build > consume
+  - long-term compounding
+```
 
 ---
 
 ## `$ stack`
 
+<div align="center">
+
 ### Languages
-<p>
+
 <img src="https://skillicons.dev/icons?i=python,cpp,java,typescript,javascript" alt="Languages" />
-</p>
 
 ### AI / Data
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" alt="AI and data stack" />
-</p>
 
-`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `LLMs` · `RAG` · `AI Agents`
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" alt="AI and data tools" />
 
 ### Engineering
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,postgres,mongodb,docker,git,github,vercel" alt="Engineering stack" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,postgres,mongodb,docker,git,github,vercel" alt="Engineering tools" />
+
+<br/><br/>
+
+`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `LLMs` · `RAG` · `Agents` · `MCP`
+
+</div>
 
 ---
 
-## `$ engineering_philosophy`
-
-> **Build first. Understand deeply. Ship continuously.**
-
-I don't want to only learn how to use AI.
-
-I want to understand what happens underneath:
-
-```text
-data
- ↓
-models
- ↓
-inference
- ↓
-retrieval / context
- ↓
-tools
- ↓
-orchestration
- ↓
-APIs
- ↓
-infrastructure
- ↓
-product
-```
-
-Every project is an experiment in understanding one more layer.
-
----
-
-## `$ github_command_center`
+## `$ philosophy`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik-aher-01&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-aher-01&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+### BUILD → BREAK → UNDERSTAND → REBUILD → SHIP
 
-<br/>
+</div>
+
+I believe the fastest way to understand complex systems is to **build them**.
+
+Not just tutorials.
+
+Not just API calls.
+
+Not just copying architectures.
+
+Build something. Hit the wall. Read the internals. Fix it. Make it production-worthy.
+
+That loop compounds.
+
+---
+
+## `$ github_live`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik-aher-01&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-aher-01&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=1800" alt="Top languages" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=pratik-aher-01&hide_border=true&background=FFFFFF00&ring=334155&fire=334155&currStreakLabel=64748B&sideLabels=64748B&dates=64748B" alt="GitHub streak" />
 
@@ -209,60 +197,83 @@ Every project is an experiment in understanding one more layer.
 
 ---
 
-## `$ build_log`
-
-```text
-[ NOW ]     Personal Engineering OS
-            └─ agent architecture + MCP workflows
-
-[ NOW ]     AI Systems
-            └─ RAG + agents + production patterns
-
-[ BUILD ]   BAVIS
-            └─ real-time computer vision pipeline
-
-[ BUILD ]   Persona
-            └─ WebMCP + tool-driven AI workflows
-
-[ EXPLORE ] ML / DL
-            └─ learning through applied systems
-```
-
----
-
-## `$ principles`
-
-```text
-01  Fundamentals before abstractions.
-02  Build instead of endlessly consuming.
-03  Understand the system end-to-end.
-04  Ship small → measure → improve.
-05  Use AI to accelerate learning, not replace it.
-06  Think like an engineer. Build like a product owner.
-```
-
----
-
-## `$ connect`
+## `$ activity`
 
 <div align="center">
 
-<a href="https://github.com/pratik-aher-01">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-**Interested in AI systems, engineering, startups, or building something ambitious?**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-aher-01&bg_color=00000000&color=64748b&line=334155&point=0f172a&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
+## `$ contribution_engine`
+
 <div align="center">
 
-### Still building. Still learning. Still shipping.
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,100:0f172a" width="100%" />
+</div>
+
+---
+
+## `$ operating_principles`
+
+```text
+01  Fundamentals > abstractions.
+
+02  Build > consume.
+
+03  Understanding > memorization.
+
+04  Systems > isolated features.
+
+05  Shipping > perfection.
+
+06  Compounding > shortcuts.
+```
+
+---
+
+## `$ future`
+
+I’m not trying to become someone who simply **knows AI tools**.
+
+The goal is to become someone who can take:
+
+```text
+                    an idea
+                       ↓
+                 understand it
+                       ↓
+                  design it
+                       ↓
+                   build it
+                       ↓
+                  deploy it
+                       ↓
+                   improve it
+                       ↓
+                  turn it into
+                    a product
+```
+
+That's the game.
+
+---
+
+<div align="center">
+
+### `STILL BUILDING. STILL LEARNING. STILL SHIPPING.`
+
+<br/>
+
+<a href="https://github.com/pratik-aher-01">
+<img src="https://img.shields.io/badge/BUILD_WITH_ME-020617?style=for-the-badge&logo=github&logoColor=white" alt="Build with me" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,50:0f172a,100:020617" width="100%" />
 
 </div>
