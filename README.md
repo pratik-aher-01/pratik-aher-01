@@ -2,19 +2,19 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Animated Pratik Aher profile hero" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=760&lines=I+build+to+understand.;I+learn+by+shipping.;AI+%E2%86%92+Systems+%E2%86%92+Products;Engineering+the+future%2C+one+system+at+a+time." alt="Animated introduction" />
-</a>
+<img src="./assets/command-center.svg" width="100%" alt="Animated engineering command center" />
 
 <br/>
 
 <a href="https://github.com/pratik-aher-01">
 <img src="https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://github.com/pratik-aher-01?tab=followers">
-<img src="https://img.shields.io/github/followers/pratik-aher-01?style=flat-square&label=followers&color=334155" alt="Followers" />
+<a href="https://github.com/pratik-aher-01">
+<img src="https://img.shields.io/badge/OPEN_SOURCE-020617?style=flat-square&logo=github&logoColor=white" alt="Open source" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=pratik-aher-01&label=views&color=334155&style=flat-square" alt="Profile views" />
+<a href="https://github.com/pratik-aher-01?tab=followers">
+<img src="https://img.shields.io/github/followers/pratik-aher-01?style=flat-square&label=builders+following&color=334155" alt="GitHub followers" />
+</a>
 
 </div>
 
